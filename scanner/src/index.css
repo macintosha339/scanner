@@ -12,6 +12,12 @@ code {
     monospace;
 }
 
+.iframe_container {
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+}
+
 .container {
   width: 70%;
   margin: 0 auto;
